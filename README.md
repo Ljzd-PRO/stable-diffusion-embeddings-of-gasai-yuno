@@ -15,7 +15,7 @@ Trained on 49 pictures for 19600 steps, with 8 vectors per token setting.
 ### Preview images
 [`/gasai yuno/image_embeddings/`](https://github.com/Ljzd-PRO/stable-diffusion-embeddings-of-gasai-yuno/tree/main/gasai%20yuno/image_embeddings/) for preview for each embedding (mark with the number of step and the model hash).
 
-[`/gasai yuno/image/`](https://github.com/Ljzd-PRO/stable-diffusion-embeddings-of-gasai-yuno/tree/main/gasai%20yuno/image/) for preview for each embedding.
+[`/gasai yuno/image/`](https://github.com/Ljzd-PRO/stable-diffusion-embeddings-of-gasai-yuno/tree/main/gasai%20yuno/images/) for preview for each embedding.
 
 <table>
   <tr>
