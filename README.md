@@ -17,6 +17,13 @@ Trained on 49 pictures for 19600 steps, with 8 vectors per token setting.
 
 [`/gasai yuno/image/`](https://github.com/Ljzd-PRO/stable-diffusion-embeddings-of-gasai-yuno/blob/main/gasai_yuno/image/) for preview for each embedding.
 
+<table>
+  <tr>
+    <td> <img src="https://user-images.githubusercontent.com/63289359/195997003-e3da93f6-bba5-4bce-961a-0981b280c620.png" border=0> </td>
+    <td> <img src="https://user-images.githubusercontent.com/63289359/195997017-b32c1808-d6b8-44df-8600-0360c652c039.png" border=0> </td>
+  </tr>
+</table>
+
 ### The usage for [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 1. Place embedding file in `/embeddings` in the repository directory.
 2. Use `[embedding_file_name]` in prompts.
