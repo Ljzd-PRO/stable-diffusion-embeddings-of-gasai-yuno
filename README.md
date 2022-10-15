@@ -34,7 +34,7 @@ Trained on 49 pictures for 19600 steps, with 8 vectors per token setting.
 ## 📷 Preview
 
 
-## Dataset
+## 🗃️ Dataset
 Pictures from Pixiv and screenshot from Future Diary anime.
 
 **🙏 Artworks from Pixiv:**
