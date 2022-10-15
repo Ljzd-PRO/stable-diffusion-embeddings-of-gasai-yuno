@@ -10,7 +10,7 @@ Trained on 49 pictures for 19600 steps, with 8 vectors per token setting.
 ### The embedding files
 **Path**: [`/gasai yuno/embeddings/`](https://github.com/Ljzd-PRO/stable-diffusion-embeddings-of-gasai-yuno/blob/main/gasai_yuno/embeddings/)
 
-**The last embedding**(19600 steps): `gasai yuno-19600.pt`
+**The last embedding**(19600 steps): `gasai yuno-19600.pt` [**🔗Download**](https://github.com/Ljzd-PRO/stable-diffusion-embeddings-of-gasai-yuno/raw/main/embeddings/gasai%20yuno-9800.pt)
 
 ### Preview images
 [`/gasai yuno/image_embeddings/`](https://github.com/Ljzd-PRO/stable-diffusion-embeddings-of-gasai-yuno/blob/main/gasai_yuno/image_embeddings/) for preview for each embedding (mark with the number of step and the model hash).
