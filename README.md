@@ -1,18 +1,18 @@
 # Stable Diffusion embeddings of Gasai Yuno
 
-## About
+## ❓ About
 Stable Diffusion textual inversion embeddings, trained on NovelAI leak model **`"animefull-latest"[e6e8e1fc]`**
 
 Trained on 49 pictures for 19600 steps, with 8 vectors per token setting.
 
-## Usage
+## 📖 Usage
 
-### The embedding files
+### 📁 The embedding files
 **Path**: [`/gasai yuno/embeddings/`](https://github.com/Ljzd-PRO/stable-diffusion-embeddings-of-gasai-yuno/tree/main/gasai%20yuno/embeddings)
 
-**The last embedding**(19600 steps): `gasai yuno-19600.pt` [**🔗Download**](https://github.com/Ljzd-PRO/stable-diffusion-embeddings-of-gasai-yuno/raw/main/gasai%20yuno/embeddings/gasai%20yuno-9800.pt)
+** 📁 The last embedding**(19600 steps): `gasai yuno-19600.pt` [**🔗Download**](https://github.com/Ljzd-PRO/stable-diffusion-embeddings-of-gasai-yuno/raw/main/gasai%20yuno/embeddings/gasai%20yuno-9800.pt)
 
-### Preview images
+### 📷 Preview images
 [`/gasai yuno/image_embeddings/`](https://github.com/Ljzd-PRO/stable-diffusion-embeddings-of-gasai-yuno/tree/main/gasai%20yuno/image_embeddings/) for preview for each embedding (mark with the number of step and the model hash).
 
 [`/gasai yuno/image/`](https://github.com/Ljzd-PRO/stable-diffusion-embeddings-of-gasai-yuno/tree/main/gasai%20yuno/images/) for preview for each embedding.
@@ -24,20 +24,20 @@ Trained on 49 pictures for 19600 steps, with 8 vectors per token setting.
   </tr>
 </table>
 
-### The usage for [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+### 📖 The usage for [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 1. Place embedding file in `/embeddings` in the repository directory.
 2. Use `[embedding_file_name]` in prompts.
 > For example, if you use the embedding file `gasai yuno.pt`, then you should use `gasai yuno` in prompts  
 > like `gasai yuno`, `a picture of gasai yuno`, `portrait of gasai yuno`
 3. Generate image.
 
-## Preview
+## 📷 Preview
 
 
 ## Dataset
 Pictures from Pixiv and screenshot from Future Diary anime.
 
-Artworks from Pixiv:
+**🙏 Artworks from Pixiv:**
 |   Title   |  Author  |   URL and artwork ID   |
 | ---- | ---- | ---- |
 | がさいさん | [山椒](https://www.pixiv.net/users/9226224) | [63487736](https://www.pixiv.net/artworks/63487736) |
