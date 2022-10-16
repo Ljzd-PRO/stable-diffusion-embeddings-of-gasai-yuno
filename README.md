@@ -13,7 +13,7 @@ Trained on 49 pictures for 19600 steps, with 8 vectors per token setting.
 **The last embedding**(19600 steps): `gasai yuno-19600.pt` [**🔗Download**](https://github.com/Ljzd-PRO/stable-diffusion-embeddings-of-gasai-yuno/raw/main/gasai%20yuno/embeddings/gasai%20yuno-9800.pt)
 
 ### 📷 Preview images
-| [`/gasai yuno/image_embeddings/`](https://github.com/Ljzd-PRO/stable-diffusion-embeddings-of-gasai-yuno/tree/main/gasai%20yuno/image_embeddings/)<br/>for preview for each embedding (mark with the number of step and the model hash). | [`/gasai yuno/image/`](https://github.com/Ljzd-PRO/stable-diffusion-embeddings-of-gasai-yuno/tree/main/gasai%20yuno/images/)<br/>for preview for each embedding. |
+| [`/gasai yuno/image_embeddings/`](https://github.com/Ljzd-PRO/stable-diffusion-embeddings-of-gasai-yuno/tree/main/gasai%20yuno/image_embeddings/)<br/>Preview for each embedding (mark with the number of step and the model hash). | [`/gasai yuno/image/`](https://github.com/Ljzd-PRO/stable-diffusion-embeddings-of-gasai-yuno/tree/main/gasai%20yuno/images/)<br/>Preview for each embedding. |
 | ---- | ---- |
 | ![image_embeddings](https://user-images.githubusercontent.com/63289359/195997003-e3da93f6-bba5-4bce-961a-0981b280c620.png) | ![image](https://user-images.githubusercontent.com/63289359/195997017-b32c1808-d6b8-44df-8600-0360c652c039.png) |
 
