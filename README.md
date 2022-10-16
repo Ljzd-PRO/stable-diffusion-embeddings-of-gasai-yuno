@@ -13,16 +13,9 @@ Trained on 49 pictures for 19600 steps, with 8 vectors per token setting.
 **The last embedding**(19600 steps): `gasai yuno-19600.pt` [**🔗Download**](https://github.com/Ljzd-PRO/stable-diffusion-embeddings-of-gasai-yuno/raw/main/gasai%20yuno/embeddings/gasai%20yuno-9800.pt)
 
 ### 📷 Preview images
-[`/gasai yuno/image_embeddings/`](https://github.com/Ljzd-PRO/stable-diffusion-embeddings-of-gasai-yuno/tree/main/gasai%20yuno/image_embeddings/) for preview for each embedding (mark with the number of step and the model hash).
-
-[`/gasai yuno/image/`](https://github.com/Ljzd-PRO/stable-diffusion-embeddings-of-gasai-yuno/tree/main/gasai%20yuno/images/) for preview for each embedding.
-
-<table>
-  <tr>
-    <td> <img src="https://user-images.githubusercontent.com/63289359/195997003-e3da93f6-bba5-4bce-961a-0981b280c620.png" border=0> </td>
-    <td> <img src="https://user-images.githubusercontent.com/63289359/195997017-b32c1808-d6b8-44df-8600-0360c652c039.png" border=0> </td>
-  </tr>
-</table>
+| [`/gasai yuno/image_embeddings/`](https://github.com/Ljzd-PRO/stable-diffusion-embeddings-of-gasai-yuno/tree/main/gasai%20yuno/image_embeddings/)<br/>for preview for each embedding (mark with the number of step and the model hash). | [`/gasai yuno/image/`](https://github.com/Ljzd-PRO/stable-diffusion-embeddings-of-gasai-yuno/tree/main/gasai%20yuno/images/)<br/>for preview for each embedding. |
+| ---- | ---- |
+| ![image_embeddings](https://user-images.githubusercontent.com/63289359/195997003-e3da93f6-bba5-4bce-961a-0981b280c620.png) | ![image](https://user-images.githubusercontent.com/63289359/195997017-b32c1808-d6b8-44df-8600-0360c652c039.png) |
 
 ### 📖 The usage for [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 1. Place embedding file in `/embeddings` in the repository directory.
@@ -32,7 +25,135 @@ Trained on 49 pictures for 19600 steps, with 8 vectors per token setting.
 3. Generate image.
 
 ## 📷 Preview
-wait for update...
+```
+a nice picture of gasai yuno,masterpiece,best quality,official art,extremely detailed CG unity 8k wallpaper,arm up,hands up,smile,under sakura tree
+Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet,no person in the picture
+Steps: 40, Sampler: Euler a, CFG scale: 7, Seed: 3537605807, Size: 512x512, Model hash: e6e8e1fc
+
+Used embeddings: gasai yuno [5d63]
+```
+![IMG_2987](https://user-images.githubusercontent.com/63289359/196021552-ab79e7dc-3275-4c78-8a79-51a18cc95516.png)
+
+---
+
+```
+a nice picture of gasai yuno,masterpiece,best quality,official art,extremely detailed CG unity 8k wallpaper,arm up,hands up,smile,in a park
+Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet,no person in the picture
+Steps: 60, Sampler: Euler a, CFG scale: 7, Seed: 1935268946, Size: 512x512, Model hash: e6e8e1fc
+
+Used embeddings: gasai yuno [5d63]
+```
+![IMG_2988](https://user-images.githubusercontent.com/63289359/196025865-9e125898-c41b-4429-9ad0-768f73f86a64.png)
+
+---
+
+```
+a nice picture of gasai yuno,masterpiece,best quality,official art,extremely detailed CG unity 8k wallpaper,arm up,hands up,holding one knife,smile,in classroom
+Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet,no person in the picture
+Steps: 40, Sampler: Euler a, CFG scale: 7, Seed: 2038539810, Size: 512x512, Model hash: e6e8e1fc
+
+Used embeddings: gasai yuno [5d63]
+```
+![IMG_2989](https://user-images.githubusercontent.com/63289359/196025983-ecabd087-461c-4d19-92f5-4723e2344ea7.png)
+
+---
+
+```
+a nice picture of gasai yuno,masterpiece,best quality,official art,extremely detailed CG unity 8k wallpaper,cool,clear face,in classroom
+Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet,no person in the picture,knife in hand
+Steps: 40, Sampler: Euler a, CFG scale: 7, Seed: 1489230976, Size: 512x512, Model hash: e6e8e1fc
+
+Used embeddings: gasai yuno [5d63]
+```
+![IMG_2991](https://user-images.githubusercontent.com/63289359/196026080-d06e44cd-55d3-4d89-b4f4-ba3d54a4ea48.png)
+
+---
+
+```
+a nice picture of gasai yuno,masterpiece,best quality,official art,extremely detailed CG unity 8k wallpaper,cool,clear face,in classroom
+Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet,no person in the picture,knife in hand
+Steps: 40, Sampler: Euler a, CFG scale: 7, Seed: 1489230973, Size: 512x512, Model hash: e6e8e1fc
+
+Used embeddings: gasai yuno [5d63]
+```
+![IMG_2993](https://user-images.githubusercontent.com/63289359/196026453-9b3f9505-bf52-497b-931c-bb4a31a4c7dc.png)
+
+---
+
+```
+a nice picture of gasai yuno,masterpiece,best quality,official art,extremely detailed CG unity 8k wallpaper,cool,clear face,in classroom,sitting
+Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet,no person in the picture,knife in hand
+Steps: 40, Sampler: Euler a, CFG scale: 7, Seed: 3022414708, Size: 512x512, Model hash: e6e8e1fc
+
+Used embeddings: gasai yuno [5d63]
+```
+![IMG_2995](https://user-images.githubusercontent.com/63289359/196026481-57db3847-ca53-4952-af8a-78bc22309cd8.png)
+
+---
+
+```
+a nice picture of gasai yuno,masterpiece,best quality,official art,extremely detailed CG unity 8k wallpaper,cool,clear face,in classroom,sitting,soft
+Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet,no person in the picture,knife in hand
+Steps: 40, Sampler: Euler a, CFG scale: 7, Seed: 1779686079, Size: 512x512, Model hash: e6e8e1fc
+
+Used embeddings: gasai yuno [5d63]
+```
+![IMG_2996](https://user-images.githubusercontent.com/63289359/196026546-eadd0cd6-32d6-4da7-9cc5-3b8dc48da422.png)
+
+---
+
+```
+a nice picture of gasai yuno,masterpiece,best quality,official art,extremely detailed CG unity 8k wallpaper,cool,clear face,in classroom,sitting,soft
+Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet,no person in the picture,knife in hand
+Steps: 40, Sampler: Euler a, CFG scale: 7, Seed: 1779686078, Size: 512x512, Model hash: e6e8e1fc
+
+Used embeddings: gasai yuno [5d63]
+```
+![IMG_2997](https://user-images.githubusercontent.com/63289359/196026592-9361d58f-99b5-4eb8-bd42-88b6a768d210.png)
+
+---
+
+```
+a nice picture of gasai yuno,masterpiece,best quality,official art,extremely detailed CG unity 8k wallpaper,cool,clear face,in classroom,sitting,soft
+Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet,no person in the picture,knife in hand
+Steps: 40, Sampler: Euler a, CFG scale: 7, Seed: 2750656602, Size: 1024x1024, Model hash: e6e8e1fc
+
+Used embeddings: gasai yuno [5d63]
+```
+![IMG_2998](https://user-images.githubusercontent.com/63289359/196026609-2b1f159e-64a9-4fd4-9cab-c1df20583c23.png)
+
+---
+
+```
+a nice picture of gasai yuno,masterpiece,best quality,official art,extremely detailed CG unity 8k wallpaper,cool,clear face,in classroom,sitting,soft
+Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet,no person in the picture,knife in hand
+Steps: 40, Sampler: Euler a, CFG scale: 7, Seed: 2750656603, Size: 1024x1024, Model hash: e6e8e1fc
+
+Used embeddings: gasai yuno [5d63]
+```
+![IMG_2999](https://user-images.githubusercontent.com/63289359/196026720-e96d2be4-fd59-47bd-86ba-8d44c466380a.png)
+
+---
+
+```
+a nice picture of gasai yuno,masterpiece,best quality,official art,extremely detailed CG unity 8k wallpaper,cool,clear face,in park,sitting,soft
+Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet,no person in the picture,knife in hand,multiple person
+Steps: 40, Sampler: Euler a, CFG scale: 7, Seed: 2689790077, Size: 1024x1024, Model hash: e6e8e1fc
+
+Used embeddings: gasai yuno [5d63]
+```
+![IMG_3001](https://user-images.githubusercontent.com/63289359/196026746-36b69f54-8b37-4739-9505-0f695a41870b.png)
+
+---
+
+```
+a nice picture of gasai yuno,masterpiece,best quality,official art,extremely detailed CG unity 8k wallpaper,cool,clear face,in park,soft,sitting
+Negative prompt: lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, bad feet,no person in the picture,multiple person
+Steps: 40, Sampler: Euler a, CFG scale: 7, Seed: 1214961476, Size: 1024x1024, Model hash: e6e8e1fc
+
+Used embeddings: gasai yuno [5d63]
+```
+![IMG_2391](https://user-images.githubusercontent.com/63289359/196026806-71834ae8-f93f-4570-84c3-8f23536e6de2.png)
 
 ## 🗃️ Dataset
 Pictures from Pixiv and screenshot from Future Diary anime.
